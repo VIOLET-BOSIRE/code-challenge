@@ -16,4 +16,4 @@ function speed_detector(speed){//making a function to determine speed
     }
 
 }
-console.log(speed_detector(90))
+console.log(speed_detector(100))
