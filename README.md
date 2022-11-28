@@ -13,3 +13,11 @@ else if grade >=0&& grade <40 is a Fail
 else the input is invalid
 
 # challenge 2
+
+speed detector
+
+this program computes demerit points from the given speed
+if speed is less than 70 no demerit point. if above 70 
+demerit points are calculated by subtracting 70 from the given
+speed then dividing the outcome by 5. whatever you get are the demerit points.
+if demerit points exceed 12 the driver is suspended
