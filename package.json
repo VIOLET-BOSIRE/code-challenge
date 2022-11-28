@@ -1,0 +1,19 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "description": "code challenge test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VIOLET-BOSIRE/code-challenge.git"
+  },
+  "author": "Violet Bosire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VIOLET-BOSIRE/code-challenge/issues"
+  },
+  "homepage": "https://github.com/VIOLET-BOSIRE/code-challenge#readme"
+}
