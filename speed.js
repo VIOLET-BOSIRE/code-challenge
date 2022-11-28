@@ -7,10 +7,10 @@ function speed_detector(speed){//making a function to determine speed
     if (speed <= 70){//begining of if else statement
         console.log("ok")
     }else{
-        let demeritPoints = (speed - 70) / 5
-        if (points <12){
+        let demeritPoints = (speed - 70) / 5//computes demerit points
+        if (points <12){// incase the calculated demerit points are les than 12
             console.log("Demerit points: "+ demeritPoints)
-        }else{
+        }else{// when demerit points are 12 or more
             console.log("Driver suspended")
         }
     }
