@@ -1,4 +1,4 @@
-l//et gross_pay = prompt("What is your Gross Salary?\n Note: The gross salary is a total of your basic pay and all benefits\n")
+//et gross_pay = prompt("What is your Gross Salary?\n Note: The gross salary is a total of your basic pay and all benefits\n")
 
     // console.log(`your gross salry is: ${gross_pay}`);
     function tax(gross_pay){
